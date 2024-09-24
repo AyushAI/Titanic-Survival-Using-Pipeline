@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# MLOps-Driven Titanic Survival Prediction Pipeline
 
 ## Overview
 
